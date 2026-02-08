@@ -1,0 +1,4 @@
+requests==2.31.0
+dnspython==2.6.1
+certifi==2024.8.30
+tqdm==4.66.5
