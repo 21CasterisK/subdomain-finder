@@ -6,5 +6,6 @@ A fast CLI tool that finds subdomains using passive sources (cert transparency, 
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/subdomain-finder.git
+git clone https://github.com/21CasterisK/subdomain-finder.git
+
 cd subdomain-finder
